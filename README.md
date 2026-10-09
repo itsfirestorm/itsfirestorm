@@ -19,10 +19,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 48px 0 48px 48px;" />
-
-###
-
 <h3 data-importer="text" align="left">- Tech Stack -</h3>
 
 ###
