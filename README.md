@@ -14,9 +14,12 @@
       alt="Fire's Top Languages"
       height="240"
     />
-    <img data-importer="image" align="right" height="240" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 24px 0 12px 20px;" />
   </p>
 </div>
+
+###
+
+<img data-importer="image" align="right" height="240" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 24px 0 12px 20px;" />
 
 ###
 
