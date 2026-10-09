@@ -10,7 +10,7 @@
       height="180"
     />
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=compact&langs_count=8&theme=transparent&hide_border=true"
       alt="Fire's Top Languages"
       width="320"
       height="240"
