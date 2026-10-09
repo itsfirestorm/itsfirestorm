@@ -3,8 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/itsfirestorm/itsfirestorm/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/itsfirestorm/itsfirestorm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=true&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itsfirestorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github-stats-extended.vercel.app/api?username=itsfirestorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true)
 </div>
 
 ###
