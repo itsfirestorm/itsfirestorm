@@ -12,14 +12,12 @@
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true"
       alt="Fire's Top Languages"
-      height="180"
+      width="320"
+      height="240"
     />
+    <img data-importer="image" align="right" height="180" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 12px 0 12px 20px;" />
   </p>
 </div>
-
-###
-
-<img data-importer="image" align="right" height="180" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 12px 0 12px 20px;" />
 
 ###
 
