@@ -3,13 +3,23 @@
 ###
 
 <div data-importer="stats" align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itsfirestorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github-stats-extended.vercel.app/api?username=itsfirestorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true)
+  <p align="center">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=itsfirestorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
+      alt="Fire's GitHub Stats"
+      height="180"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=itsfirestorm&layout=pie&langs_count=8&theme=transparent&hide_border=true"
+      alt="Fire's Top Languages"
+      height="180"
+    />
+  </p>
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif"  />
+<img data-importer="image" align="right" height="180" src="https://tenor.com/view/sand-cat-gif-8432524995457191700.gif" style="margin: 12px 0 12px 20px;" />
 
 ###
 
